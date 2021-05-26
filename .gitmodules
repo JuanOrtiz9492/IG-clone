@@ -1,0 +1,3 @@
+[submodule "ig-clone-app"]
+	path = ig-clone-app
+	url = git@github.com:JuanOrtiz9492/ig-clone-app.git
